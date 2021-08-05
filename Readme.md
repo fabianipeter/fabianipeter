@@ -10,7 +10,7 @@
 
 ## Skills 👩‍💻
 
-* Leadership
+* 🥰 Leadership. 
 * 💻 Excel.
 * 🧮 Power BI.
 * 📊 Data Visualization.
