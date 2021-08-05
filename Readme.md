@@ -5,7 +5,7 @@
 
 * 👩‍🎓 Bachelor in Administration -ULBRA.
 * 👩‍🎓 Bachelor in Accounting -ULBRA
-* 🎓 Postgraduate studies in Project Management - UNIASELVI.
+* 🎓 MBA in Project Management - UNIASELVI.
 * 👩‍💻 Data Scientist student and enthusiastic 🥰.
 
 ## Skills 👩‍💻
