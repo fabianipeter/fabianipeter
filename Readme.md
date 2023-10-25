@@ -1,6 +1,6 @@
 # Fabiani G. Peter  
 
-## Sou graduada em Administração, Contadora e MBA em Gerenciamento de Projetos
+### Sou graduada em Administração, Contadora e MBA em Gerenciamento de Projetos
 Atualmente estudante de Ciência de Dados e encantada com as possibilidade que os dados podem gerar
 
 ## Skills 👩‍💻
