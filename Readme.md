@@ -1,12 +1,7 @@
-# **Hi, I'm Fabiani** 👩‍💻 👋 
-###  
+# Fabiani G. Peter  
 
-## Who am I? 
-
-* 👩‍🎓 Bachelor in Administration -ULBRA.
-* 👩‍🎓 Bachelor in Accounting -ULBRA
-* 🎓 MBA in Project Management - UNIASELVI.
-* 👩‍💻 Data Scientist student and enthusiastic 🥰.
+## Sou graduada em Administração, Contadora e MBA em Gerenciamento de Projetos
+Atualmente estudante de Ciência de Dados e encantada com as possibilidade que os dados podem gerar
 
 ## Skills 👩‍💻
 
